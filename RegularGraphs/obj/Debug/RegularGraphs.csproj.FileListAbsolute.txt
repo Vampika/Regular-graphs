@@ -1,0 +1,11 @@
+C:\Users\Asus\Downloads\RegularGraphs\RegularGraphs\RegularGraphs\bin\Debug\RegularGraphs.exe.config
+C:\Users\Asus\Downloads\RegularGraphs\RegularGraphs\RegularGraphs\bin\Debug\RegularGraphs.exe
+C:\Users\Asus\Downloads\RegularGraphs\RegularGraphs\RegularGraphs\bin\Debug\RegularGraphs.pdb
+C:\Users\Asus\Downloads\RegularGraphs\RegularGraphs\RegularGraphs\obj\Debug\RegularGraphs.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\RegularGraphs\RegularGraphs\RegularGraphs\obj\Debug\RegularGraphs.Form1.resources
+C:\Users\Asus\Downloads\RegularGraphs\RegularGraphs\RegularGraphs\obj\Debug\RegularGraphs.Inqury.resources
+C:\Users\Asus\Downloads\RegularGraphs\RegularGraphs\RegularGraphs\obj\Debug\RegularGraphs.Properties.Resources.resources
+C:\Users\Asus\Downloads\RegularGraphs\RegularGraphs\RegularGraphs\obj\Debug\RegularGraphs.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\RegularGraphs\RegularGraphs\RegularGraphs\obj\Debug\RegularGraphs.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\RegularGraphs\RegularGraphs\RegularGraphs\obj\Debug\RegularGraphs.exe
+C:\Users\Asus\Downloads\RegularGraphs\RegularGraphs\RegularGraphs\obj\Debug\RegularGraphs.pdb
